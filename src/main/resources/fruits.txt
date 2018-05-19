@@ -1,0 +1,8 @@
+Mango,Yellow,True
+Orange,Orange,True
+Watermelon,Red,False
+Grapes,Green,True
+Lemon,Yellow,True
+Cherry,Red,True
+Avocado,Green,True
+Pumpkin,Orange,False
